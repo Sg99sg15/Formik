@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Sg99sg15/Formik.git/static/css/main.8dae1604.css",
+    "main.js": "/Sg99sg15/Formik.git/static/js/main.1ceaba03.js",
+    "index.html": "/Sg99sg15/Formik.git/index.html",
+    "main.8dae1604.css.map": "/Sg99sg15/Formik.git/static/css/main.8dae1604.css.map",
+    "main.1ceaba03.js.map": "/Sg99sg15/Formik.git/static/js/main.1ceaba03.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8dae1604.css",
+    "static/js/main.1ceaba03.js"
+  ]
+}
