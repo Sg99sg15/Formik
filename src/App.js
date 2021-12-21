@@ -1,8 +1,9 @@
 import React from 'react';
 import './App.css';
+import Enrollment from './component/Enrollment';
 // import FormikContainer from './component/FormikContainer';
 // import LoginForm from './component/LoginForm';
-import RegistrationForm from './component/RegistrationForm';
+// import RegistrationForm from './component/RegistrationForm';
 // import YoutubeForm from './YoutubeForm';
 // import OldYoutubeForm from './OldYoutubeForm';
 
@@ -14,7 +15,8 @@ function App() {
 {/* <OldYoutubeForm /> */}
 {/* <FormikContainer /> */}
 {/* <LoginForm /> */}
-<RegistrationForm />
+{/* <RegistrationForm /> */}
+<Enrollment />
 </div>
 </>
   );
